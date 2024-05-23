@@ -7,5 +7,10 @@ conda env create --file environment.yaml
 
 Активировать окружение
 ```
-source activate ENV_NAME
+source activate env
+```
+
+Если что-то переустановили/доустановили
+```
+conda env export > environment.yml
 ```
