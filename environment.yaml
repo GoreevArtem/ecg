@@ -58,9 +58,12 @@ dependencies:
   - zipp=3.17.0=pyhd8ed1ab_0
   - zlib=1.2.13=h8cc25b3_1
   - pip:
+      - arff==0.9
       - contourpy==1.2.1
       - cycler==0.12.1
       - fonttools==4.51.0
+      - imbalanced-learn==0.12.2
+      - imblearn==0.0
       - joblib==1.4.2
       - kiwisolver==1.4.5
       - matplotlib==3.9.0
