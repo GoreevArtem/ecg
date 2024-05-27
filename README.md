@@ -12,5 +12,5 @@ source activate env
 
 Если что-то переустановили/доустановили
 ```
-conda env export > environment.yml
+conda env export > environment.yaml
 ```
